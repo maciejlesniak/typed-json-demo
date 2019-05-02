@@ -1,0 +1,18 @@
+{
+  "type": "listresponse",
+  "status": "OK",
+  "details": [
+    {
+      "type": "iteminfo",
+      "item": "some name",
+      "id": "46302640",
+      "order": 42
+    },
+    {
+      "type": "iteminfo",
+      "item": "some other name",
+      "id": "9675049604",
+      "order": 21
+    }
+  ]
+}

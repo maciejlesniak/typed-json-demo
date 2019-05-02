@@ -1,0 +1,12 @@
+{
+  "type": "response",
+  "status": "OK",
+  "details": {
+    "type": "full",
+    "name": "some name",
+    "id": "ff463",
+    "timestamp": 846832046032,
+    "contractId": "321-4324-422-1-423",
+    "desc": "some description"
+  }
+}

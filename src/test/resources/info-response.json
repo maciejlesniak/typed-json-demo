@@ -1,0 +1,9 @@
+{
+  "type": "response",
+  "status": "OK",
+  "details": {
+    "type": "info",
+    "name": "some name",
+    "id": "463zz02640"
+  }
+}
